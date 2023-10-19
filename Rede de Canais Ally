@@ -1,4 +1,6 @@
 #EXTM3U
+epg-url="http://mepg.ddns.me/epg.xml"
+
 #EXTINF:0 type="stream" channelId="2434" aspect-ratio="16:9", BAND HD
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:0 type="stream" channelId="40" aspect-ratio="16:9", CARTOON NETWORK HD
