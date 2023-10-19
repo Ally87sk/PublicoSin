@@ -1,118 +1,121 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="2434" aspect-ratio="16:9", BAND HD
+#EXTINF:-1  tvg-name="BAND HD", BAND HD
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="40" aspect-ratio="16:9", CARTOON NETWORK HD
+#EXTINF:-1 tvg-name="CARTOON NWTWORK HD", CARTOON NETWORK HD
 https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2639" aspect-ratio="16:9", TOONCAST HD
+#EXTINF:-1 tvg-name="TOONCAST HD",  TOONCAST HD
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="383" aspect-ratio="16:9", SPACE HD
+#EXTINF:-1 tvg-name="SPACE HD", SPACE HD
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="1052" aspect-ratio="16:9", TNT HD
+#EXTINF:-1  tvg-name="TNT SERIES", TNT HD
 https://tvembed.net/tnt/tracks-v1a1/mono.m3u8?remote=187.84.44.204&token=1e557df62277b8d586aed650a776b069539645b1-bf8d72c7302ce76ea3da087f29b362dd-1697175594-1697168394
-#EXTINF:0 type="stream" channelId="2908" aspect-ratio="16:9", ZOOMOO HD
+#EXTINF:-1 tvg-name="ZOOMOO HD", ZOOMOO HD
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="1214" aspect-ratio="16:9", SONY MOVIES HD
+#EXTINF:-1  tvg-name="SONY FILMES HD", SONY MOVIES HD
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
-#EXTINF:0 type="stream" channelId="188" aspect-ratio="16:9", SONY CHANNEL HD
+#EXTINF:-1  tvg-name="SONY CHANNEL HD", SONY CHANNEL HD
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:0 type="stream" channelId="1573" aspect-ratio="16:9", AXN HD
+#EXTINF:-1  tvg-name="AXN HD", AXN HD
 https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9", EBC HD
+#EXTINF:-1  tvg-name="EBC HD", EBC HD
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 type="stream" channelId="2505" aspect-ratio="16:9", DISCOVERY KIDS HD
+#EXTINF:-1  tvg-name="DISCOVERY KIDS HD", DISCOVERY KIDS HD
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="2573" aspect-ratio="16:9", BAND NEWS HD
+#EXTINF:-1  tvg-name="BAND NEWS HD", BAND NEWS HD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" background="https://drive.google.com/file/d/10oePiJ48xEW5m3piHi4gddZAGHKe8n8R/view?usp=drivesdk", Globo
+#EXTINF:-1  tvg-name="GLOBO SP HD", Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="50" aspect-ratio="16:9", ANIMAL PLANET HD
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD", ANIMAL PLANET HD
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="57" aspect-ratio="16:9", DISCOVERY CHANNEL HD
+#EXTINF:-1  tvg-name="DISCOVERY CHANNEL HD", DISCOVERY CHANNEL HD
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="2452" aspect-ratio="16:9", RIT TV
+#EXTINF:-1  tvg-name="RIT HD", RIT TV
 https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
-#EXTINF:0 type="stream" channelId="1208" aspect-ratio="16:9", A&E HD
+#EXTINF:0  tvg-name="AeE", A&E HD
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2501" aspect-ratio="16:9", AMC HD
+#EXTINF:-1 tvg-name="AMC HD", AMC HD
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2619" aspect-ratio="16:9", CINEBRASIL HD
+#EXTINF:-1 tvg-name="CINEBRASIL HD", CINEBRASIL HD
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
-#EXTINF:0 type="stream" channelId="2632" aspect-ratio="16:9", FILM ARTS BRASIL
+#EXTINF:-1 tvg-name="FILM ARTS BRASIL", FILM ARTS BRASIL
 https://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2839" aspect-ratio="16:9", DISCOVERY WORLD HD
+#EXTINF:-1 tvg-name="DISCOVERY WORLD HD", DISCOVERY WORLD HD
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="1455" aspect-ratio="16:9", HISTORY HD
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+#EXTINF:-1 tvg-name="HISTORY HD", HISTORY HD
+https://cdn-1.nxpLay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:0 type="stream" channelId="2433" aspect-ratio="16:9", Item 24
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1031" aspect-ratio="16:9", Item 25
+#EXTINF:-1 tvg-name="ITEM 25", Item 25
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2456" aspect-ratio="16:9", Item 26
+#EXTINF:-1 type="stream" channelId="2456" aspect-ratio="16:9", Item 26
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1455" aspect-ratio="16:9", HISTORY 2 HD
+#EXTINF:-1 tvg-name="HISTORY 2 HD", HISTORY 2 HD
 https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2840" aspect-ratio="16:9", DISCOVERY TURBO SD
+#EXTINF:-1 tvg-name="DISCOVERY TURBO HD", DISCOVERY TURBO SD
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="2572" aspect-ratio="16:9", ARTE1 HD
+#EXTINF:-1 tvg-name="ARTE1 HD", ARTE1 HD
 https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2467" aspect-ratio="16:9", TV GUARA
+#EXTINF:-1 tvg-name="TV GUARA", TV GUARA
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w488754077.m3u8
-#EXTINF:0 type="stream" channelId="1305" aspect-ratio="16:9", CARTOONITO HD
+#EXTINF:-1 tvg-name="CARTOONITO HD", CARTOONITO HD
 https://s.m3u9.top/a2/hls1/cartoonito/__index.m3u8?mu3zAQc9HC3GbwJq=thTrZzxcyjTYcDUN4LIfJQ&3U1G7qaTxrPbalZnEx=1697244092
-#EXTINF:0 type="stream" channelId="322" aspect-ratio="16:9", PLUTO TV
+#EXTINF:-1 tvg-name="PLUTO TV", PLUTO TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="334" aspect-ratio="16:9", NICKELODEON HD
+#EXTINF:-1 tvg-name="NICKLODEON HD", NICKELODEON HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
-#EXTINF:0 type="stream" channelId="19" aspect-ratio="16:9", DISNEY CHANNEL HD
+#EXTINF:-1 tvg-name="DISNEY CHANNEL HD", DISNEY CHANNEL HD
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="1303" aspect-ratio="16:9", FX HD
+#EXTINF:-1 type="stream" channelId="1303" aspect-ratio="16:9", FX HD
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="2574" aspect-ratio="16:9", BAND SPORTS HD
+#EXTINF:-1 tvg-name="BAND SPORTS HD", BAND SPORTS HD
 http://187.95.95.243/Band-Sports/index.m3u8
-#EXTINF:0 type="stream" channelId="2435" aspect-ratio="16:9", REDETV HD
+#EXTINF:-1 tvg-name="REDETV HD", REDETV HD
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4647" aspect-ratio="16:9", CNN BRASIL HD
+#EXTINF:-1 tvg-name="CNN BRASIL HD", CNN BRASIL HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2599" aspect-ratio="16:9", SPORTV HD
+#EXTINF:-1 tvg-name="SPORTV HD", SPORTV HD
 https://s.m3u9.top/a2/hls1/sportv1/__index.m3u8?mu3zAQc9HC3GbwJq=uaNepOYXC1Xq6_k1vRC9aA&3U1G7qaTxrPbalZnEx=1697240835
-#EXTINF:0 type="stream" channelId="2610" aspect-ratio="16:9", Item 47
+#EXTINF:-1 tvg-name="ITEM 47", Item 47
 https://tvembed.net/tc-premium/tracks-v1a1/mono.m3u8?remote=177.200.58.18&token=5a5601329688a2554032982cebf14457694892c5-b551d9e76838998dd136c66b7fc97cc9-1697174586-1697167386
-#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9", Item 46
+#EXTINF:-1 tvg-name="ITEM 46", Item 46
 https://live-cm-ah-08-15.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDgtMTUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk3MjU2OTUyLCJpYXQiOjE2OTcxNzA1NTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMTJiNGI0YmYtOGE4MC00ZWJhLTlhYWMtMWZkZTE2YWRjNmNlIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.qGNO1p_jU6sr9dgjyoRvQdzCFjYOvOuadCA4Kv01wLt0RogTmJaiGUc2VSq_MdmgyliWDwCb9oijf2UMwQYIIH6e7AEBNZc2hjUB8o_kMh0aQIYewHMYLQr8DiL5gHYIs-UO6KQE2VbAC8xj8eX-4GgXsZ0OodOLc33_A5mwf78oArsoR2yCLs3fGqzmrAYtFq8AwN2Oin8bOmmKifWO3sn4TsC-CBrLnPThw8wBuZxs37TYlOczeaVYubOcQYIN-HOCdQ0DdzlKIcb2wu_97pP_-ns8MMpr4xo6BpzD6D_sOgMNeb0Y9BmfI-Mn7UBZa6wa8m4y-FpsrqjOcTriBg/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?systemBitrate%3E=2000&dvr_window_length=120
-#EXTINF:0 type="stream" channelId="64" aspect-ratio="16:9", cINE CANAL
+#EXTINF:-1 tvg-name="CINE CANAL", cINE CANAL
 https://s.m3u9.top/a2/hls1/cinecanal/__index.m3u8?mu3zAQc9HC3GbwJq=QHKp568lzloY6bmUB5dXkQ&3U1G7qaTxrPbalZnEx=1697244412
-#EXTINF:0 type="stream" channelId="2588" aspect-ratio="16:9", MEGAPIX HD
+#EXTINF:-1 tvg-name="MEGAPIX HD", MEGAPIX HD
 https://hlsplus.online/p2p/megapix/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMyAzOjI1OjQ5IFBNJmhhc2hfdmFsdWU9QzJrMlUzSWRrQVNaVjk3VXZvRDZuZz09JnZhbGlkbWludXRlcz0xNjA=
-#EXTINF:0 type="stream" channelId="2596" aspect-ratio="16:9", PREMIERE CLUBE HD
+#EXTINF:-1 tvg-name="PREMIERE CLUBE HD", PREMIERE CLUBE HD
 https://s.m3u9.top/a2/hls1/premiereclubes/__index.m3u8?mu3zAQc9HC3GbwJq=Hzw_s7zDo8iYx_aDe5Ag3Q&3U1G7qaTxrPbalZnEx=1697243076
-#EXTINF:0 type="stream" channelId="1326" aspect-ratio="16:9", CINEMAX HD
+#EXTINF:-1 tvg-name="CINEMAX HD", CINEMAX HD
 https://s.m3u9.top/a2/hls1/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=PLgSjSQS3owladyusznAEA&3U1G7qaTxrPbalZnEx=1697243572
-#EXTINF:0 type="stream" channelId="2540" aspect-ratio="16:9", ESPN HD
+#EXTINF:-1 tvg-name="ESPN HD", ESPN HD
 https://s.m3u9.top/a2/hls1/espn/__index.m3u8?mu3zAQc9HC3GbwJq=6XjpLfOeWGsyNOPYizI41Q&3U1G7qaTxrPbalZnEx=1697243787
-#EXTINF:0 type="stream" channelId="2718" aspect-ratio="16:9", BIS HD
+#EXTINF:-1 tvg-name="BIS HD", BIS HD
 https://s.m3u9.top/a2/hls1/bis/__index.m3u8?mu3zAQc9HC3GbwJq=53iYKGEzXOppTT8q2O8eGw&3U1G7qaTxrPbalZnEx=1697244228
-#EXTINF:0 type="stream" channelId="2633" aspect-ratio="16:9", FISH TV
+#EXTINF:-1 tvg-name="FISH TV", FISH TV
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="2449" aspect-ratio="16:9", CANCAO NOVA
+#EXTINF:-1 tvg-name="CANCAO NOVA", CANCAO NOVA
 https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
-#EXTINF:0 type="stream" channelId="1305" aspect-ratio="16:9", CARTOONITO HD
+#EXTINF:-1 tvG-name="CARTOONITO HD", CARTOONITO HD
 https://s.m3u9.top/a2/hls1/cartoonito/__index.m3u8?mu3zAQc9HC3GbwJq=thTrZzxcyjTYcDUN4LIfJQ&3U1G7qaTxrPbalZnEx=1697244092
-#EXTINF:-0 type="stream" tvg-name="globonews", globo
+#EXTINF:-1 " tvg-name="globonews", globo
 https://cdn-1.nxplay.com.br/GLOBONEWS_TK/index.m3u8
-#EXTINF:-0 type="stream" tvg-name="TELECINE HD", TELECINE PREMIUM
+#EXTINF:-1 tvg-name="TELECINE HD", TELECINE PREMIUM
 https://cdn-1.nxplay.com.br/TELECINE_TK/index.m3u8
-#EXTINF:-0 type="stream" tvg-name="CINEMAX", CINEMAX HD
+#EXTINF:-1  tvg-name="CINEMAX", CINEMAX HD
 https://cdn-1.nxplay.com.br/CINEMAX_TK/index.m3u8
-#EXTINF:-0 type="stream" tvg-name="Wooh",Wooh HD
+#EXTINF:-1 type="stream" tvg-name="Wooh",Wooh HD
 https://cdn-1.nxplay.com.br/WOOH_TK/index.m3u8
-#EXTINF:-0 type="stream" tvg-name="MEGAPIX HD", MEGAPIX HD
+#EXTINF:-1 type="stream" tvg-name="MEGAPIX HD", MEGAPIX HD
 https://cdn-1.nxplay.com.br/MEGAPIX_TK/index.m3u8
 https://cdn-1.nxplay.com.br/WOOH_TK/index.m3u8
-#EXTINF:-0 type="stream" tvg-name="TNT NOVELAS", TNT NOVELAS
+#EXTINF:-1 type="stream" tvg-name="TNT NOVELAS", TNT NOVELAS
 https://cdn-1.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
 https://cdn-1.nxplay.com.br/WOOH_TK/index.m3u8
-#EXTINF:-0 type="stream" tvg-name="TNT SERIES", TNT SERIES
+#EXTINF:-1 type="stream" tvg-name="TNT SERIES", TNT SERIES
 https://cdn-1.nxplay.com.br/TNT_SERIES_TK/index.m3u8
-#EXTINF:-1 EPG
+#EXTINF:-1 EPG,
 http://mepg.ddns.me/epg.xml
+epg-url="http://mepg.ddns.me/epg.xml"
+#EXTINF:-1 EPG 1,
+epg-url="http://mepg.ddns.me/epg.xml"
